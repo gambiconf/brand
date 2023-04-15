@@ -10,6 +10,12 @@
 
 [Click here to download all the assets](https://github.com/gambiconf/brand/archive/refs/heads/main.zip).
 
+# Mambi, our mascot
+
+**Mambi** is our mascot, a golden lion tamarin.
+
+We have two versions of it: [`furry-style`](./mascot/furry-style) (deprecated) and [`flat-style`](./mascot/flat-style/) (the current one).
+
 # Credits
 
 The logo, icon, and mascot were created for GambiConf by [Kniksis](https://twitter.com/KniksisG).
